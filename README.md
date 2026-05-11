@@ -23,13 +23,13 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hosamalomari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
   
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true&background=0D1117"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hosamalomari&theme=tokyonight&hide_border=true&background=0D1117"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=USERNAME&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hosamalomari&theme=tokyonight"/>
 </p>
 
 ---
@@ -37,7 +37,7 @@
 # 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=hosamalomari&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
 </p>
 
 ---
