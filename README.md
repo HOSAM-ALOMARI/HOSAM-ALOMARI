@@ -1,49 +1,54 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=ITLIQ&fontAlign=50&fontAlignY=40&color=0:000000,20:0a0a0a,50:111111,80:000000,100:000000&fontColor=ffffff&fontSize=85&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=ITLIQ&fontAlign=50&fontAlignY=42&color=0:000000,30:0a0a0a,60:111111,100:000000&fontColor=ffffff&fontSize=90&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <b>⚫ A Next-Generation SaaS Commerce Platform</b>
+  <b>A Minimal Commerce Operating System</b>
 </p>
 
 <p align="center">
-  <i>Built for merchants. Designed for scale. Powered by simplicity.</i>
+  <sub>Built for merchants who want clarity, speed, and control.</sub>
 </p>
 
 ---
 
-## ⚫ WHAT IS ITLIQ
+# ◼ ABOUT ITLIQ
 
-ITLIQ is a **modern commerce operating system**.
+ITLIQ is a **commerce operating system**, not just a platform.
 
-It helps merchants:
-- Build online stores instantly  
-- Manage products & orders effortlessly  
-- Control everything from one clean dashboard  
-- Scale without complexity  
+It replaces complexity with structure and gives merchants full control over their business in one clean system.
 
 ---
 
-## ⚪ WHY ITLIQ
+# ◻ PROBLEM
 
-> Most platforms are either too complex or too limited.  
-> ITLIQ removes both problems.
-
-- No clutter  
-- No unnecessary features  
-- No slow dashboards  
-- Just business tools that work  
+Most e-commerce platforms suffer from:
+- Over-complicated dashboards  
+- Slow workflows  
+- Fragmented tools  
+- Poor scalability  
 
 ---
 
-## ⚫ CORE FEATURES
+# ◼ SOLUTION
 
-- ⚡ Fast storefront builder  
-- 🧠 Smart merchant dashboard  
-- 🎨 Fully customizable themes  
-- 📦 Product & order system  
-- 📊 Simple analytics view  
+ITLIQ solves this by:
+- Unifying all tools in one system  
+- Removing unnecessary complexity  
+- Focusing on business flow only  
+- Delivering a clean merchant experience  
 
 ---
 
-## ⚪ TECH STACK
+# ◻ CORE FEATURES
+
+- ⚡ Instant store creation  
+- 📦 Product management system  
+- 🧭 Unified dashboard  
+- 🎨 Clean customizable UI  
+- 📊 Simple analytics structure  
+- 🔐 Secure backend architecture  
+
+---
+
+# ◼ TECH STACK
