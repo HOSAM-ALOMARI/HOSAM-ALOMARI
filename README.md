@@ -26,9 +26,9 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hosamalomari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hosamalomari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400"/>
 
-  <img height="180em" src="https://streak-stats.demolab.com?user=hosamalomari&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hosamalomari&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -47,19 +47,25 @@
 
 # 🚀 Tech Stack
 
-- Frontend: HTML CSS JS Bootstrap  
-- Backend: Firebase Node.js  
-- Tools: GitHub VS Code  
+- HTML  
+- CSS  
+- JavaScript  
+- Firebase  
+- Bootstrap  
+- Node.js  
+- GitHub  
 
 ---
 
-# ⚡ What is ITLIQ
+# ⚡ About Project
 
-A SaaS platform that helps merchants:
-- Build stores instantly
-- Manage products easily
-- Use AI dashboards
-- Customize themes without limits
+ITLIQ is a SaaS platform that helps merchants:
+
+- 🛒 Build online stores easily  
+- ⚙️ Manage products & orders  
+- 🎨 Customize themes freely  
+- 🤖 Use smart AI dashboard tools  
+- 📊 Track analytics in real time  
 
 ---
 
