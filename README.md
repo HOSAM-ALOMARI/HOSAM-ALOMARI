@@ -23,51 +23,54 @@
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Overview
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hosamalomari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400"/>
-
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hosamalomari&theme=tokyonight&hide_border=true"/>
+  <img src="https://img.shields.io/badge/Developer-Hosam%20Alomari-38BDF8?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Project-ITLIQ-1E3A8A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Active%20Development-0F172A?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hosamalomari&theme=tokyonight"/>
-</p>
-
----
-
-# 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hosamalomari&theme=algolia&no-frame=true&row=1&margin-w=12"/>
+  <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JS-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Backend-Firebase-38BDF8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tools-VSCode%20%7C%20GitHub-0F172A?style=flat-square" />
 </p>
 
 ---
 
-# 🚀 Tech Stack
+# 🚀 What is ITLIQ
 
-- HTML  
-- CSS  
+ITLIQ is a SaaS platform designed for modern merchants:
+
+- 🛒 Create online stores instantly  
+- ⚙️ Manage products and orders easily  
+- 🎨 Fully customizable themes  
+- 🤖 Smart AI dashboard tools  
+- 📊 Clean business analytics (built-in later system)  
+
+---
+
+# 🧠 Tech Stack
+
+- HTML5  
+- CSS3  
 - JavaScript  
-- Firebase  
 - Bootstrap  
+- Firebase  
 - Node.js  
 - GitHub  
 
 ---
 
-# ⚡ About Project
+# 🏆 Project Vision
 
-ITLIQ is a SaaS platform that helps merchants:
-
-- 🛒 Build online stores easily  
-- ⚙️ Manage products & orders  
-- 🎨 Customize themes freely  
-- 🤖 Use smart AI dashboard tools  
-- 📊 Track analytics in real time  
+ITLIQ is not just a website builder —  
+it’s a **full commerce ecosystem for the new generation of merchants in the Arab world**.
 
 ---
+
+# ⚡ Footer
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1E3A8A,100:020617&height=130&section=footer"/>
