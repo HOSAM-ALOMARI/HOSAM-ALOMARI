@@ -26,8 +26,8 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hosamalomari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hosamalomari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800"/>
+
   <img height="180em" src="https://streak-stats.demolab.com?user=hosamalomari&theme=tokyonight&hide_border=true"/>
 </p>
 
@@ -42,6 +42,24 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hosamalomari&theme=algolia&no-frame=true&row=1&margin-w=12"/>
 </p>
+
+---
+
+# 🚀 Tech Stack
+
+- Frontend: HTML CSS JS Bootstrap  
+- Backend: Firebase Node.js  
+- Tools: GitHub VS Code  
+
+---
+
+# ⚡ What is ITLIQ
+
+A SaaS platform that helps merchants:
+- Build stores instantly
+- Manage products easily
+- Use AI dashboards
+- Customize themes without limits
 
 ---
 
