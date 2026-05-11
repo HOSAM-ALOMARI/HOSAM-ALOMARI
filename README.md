@@ -1,43 +1,49 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=ITLIQ&fontAlign=50&fontAlignY=38&color=0:000000,50:111111,100:000000&fontColor=ffffff&fontSize=80&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=ITLIQ&fontAlign=50&fontAlignY=40&color=0:000000,20:0a0a0a,50:111111,80:000000,100:000000&fontColor=ffffff&fontSize=85&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <b style="color:#ffffff;">Modern Commerce Platform for the New Generation</b>
+  <b>⚫ A Next-Generation SaaS Commerce Platform</b>
 </p>
-
----
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/BUILD-SAAS_PLATFORM-111111?style=for-the-badge&logo=github&logoColor=white" />
+  <i>Built for merchants. Designed for scale. Powered by simplicity.</i>
 </p>
 
 ---
 
-# ⚫ ABOUT ITLIQ
+## ⚫ WHAT IS ITLIQ
 
-ITLIQ is a **minimal black & white commerce system** built for modern merchants.
+ITLIQ is a **modern commerce operating system**.
 
-No complexity. No noise. Just power.
-
-- Build stores instantly  
-- Manage products simply  
-- Customize everything  
-- Fast, clean, scalable  
-
----
-
-# ⚪ CORE VISION
-
-> “Less design. More impact.”
-
-ITLIQ focuses on:
-- Clean UI
-- Speed performance
-- Merchant simplicity
-- Scalable architecture
+It helps merchants:
+- Build online stores instantly  
+- Manage products & orders effortlessly  
+- Control everything from one clean dashboard  
+- Scale without complexity  
 
 ---
 
-# ⚫ TECH STACK
+## ⚪ WHY ITLIQ
+
+> Most platforms are either too complex or too limited.  
+> ITLIQ removes both problems.
+
+- No clutter  
+- No unnecessary features  
+- No slow dashboards  
+- Just business tools that work  
+
+---
+
+## ⚫ CORE FEATURES
+
+- ⚡ Fast storefront builder  
+- 🧠 Smart merchant dashboard  
+- 🎨 Fully customizable themes  
+- 📦 Product & order system  
+- 📊 Simple analytics view  
+
+---
+
+## ⚪ TECH STACK
