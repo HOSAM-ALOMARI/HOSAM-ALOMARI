@@ -52,3 +52,44 @@ ITLIQ solves this by:
 ---
 
 # ◼ TECH STACK
+
+
+HTML • CSS • JavaScript • Firebase • Node.js • Bootstrap
+
+
+---
+
+# ◻ DESIGN PRINCIPLES
+
+- Black & White only  
+- No visual noise  
+- High contrast UI  
+- Minimal structure  
+- Performance first  
+
+---
+
+# ◼ PROJECT STATUS
+
+- Core System: Stable  
+- Dashboard: In progress  
+- Features: Expanding  
+- Vision: Scaling SaaS ecosystem  
+
+---
+
+# ◻ VISION
+
+> “Build simple. Sell faster. Scale smarter.”
+
+ITLIQ aims to become the backbone of modern Arabic commerce systems.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,50:111111,100:000000"/>
+</p>
+
+<p align="center">
+  <b>ITLIQ © Commerce Operating System</b>
+</p>
